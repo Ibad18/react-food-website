@@ -35,3 +35,10 @@
 .search{
     display: inline;
 }
+
+/* media query */
+@media (max-width:700px){
+    .search input{
+        width: 200px;
+    }
+}

@@ -49,3 +49,17 @@
     color: #fff;
     cursor: pointer;
 }
+/* media query */
+
+@media (max-width:700px){
+ .row{
+    display: block;
+ }
+ .menu{
+    width: 100%;
+    margin-top: 20px;
+ }
+ .food-menu{
+    padding: 0;
+ }   
+}
