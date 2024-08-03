@@ -70,7 +70,7 @@ const FoodMenu = () => {
           </div>
           </div>
         </div>
-        <h4>See All Foods</h4>
+        <h4>See All Foods</h4 >
       </div>
       )
 }

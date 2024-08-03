@@ -4,6 +4,7 @@ import Navbar from './components/Navbar/Navbar'
 import SearchBar from './components/SearchBar/SearchBar'
 import ExploreFood from './components/ExploreFood/ExploreFood'
 import FoodMenu from './components/FoodMenu/FoodMenu'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <SearchBar />
       <ExploreFood />
       <FoodMenu />
+      <Footer />
     </div>
   )
 }
