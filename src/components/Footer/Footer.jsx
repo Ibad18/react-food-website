@@ -11,6 +11,7 @@ const Footer = () => {
                 <img src={instagramIcon} alt="" />
                 <img src={twitterIcon} alt="" />
             </div>
+            <h4>All rights reserved Designed by <span>Ibad Ullah</span></h4>
         </div>
     )
 }
